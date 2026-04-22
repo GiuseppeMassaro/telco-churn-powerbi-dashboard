@@ -197,17 +197,30 @@ telco-churn-powerbi-dashboard/
 
 <p align="center">
 
-<b>🚀 Data Analytics Focus</b>  
-Building insights from real-world datasets  
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 
 <br><br>
 
-<a href="./report/Dashboard%20Telco.pbix">
-  <img src="https://img.shields.io/badge/📊%20Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<b>🚀 Telco Customer Churn Analysis</b>  
+Data Analytics • Business Intelligence • Dashboarding  
+
+<br><br>
+
+💡 Transforming raw data into actionable insights  
+🎯 Focus on churn reduction & customer retention  
+
+<br><br>
+
+<!-- BOTTONI -->
+
+<a href="./report/Dashboard_Telco.pbix">
+  <img src="https://img.shields.io/badge/📥%20Power%20BI-Download%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
+<br><br>
+
 <a href="./sql/sql.sql">
-  <img src="https://img.shields.io/badge/🧠%20SQL-Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠%20SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
 <a href="./etl/pulizia%20etl.ipynb">
@@ -216,10 +229,20 @@ Building insights from real-world datasets
 
 <br><br>
 
-🎯 <b>Goal:</b> Deliver actionable business insights  
+<!-- TAG SKILLS -->
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business%20Impact-8E24AA?style=flat-square"/>
+
+<br><br>
+
+🔥 <b>Goal:</b> Deliver insights that drive real business decisions  
 
 </p>
-
 ---
 
 ## 👨‍💻 About Me
