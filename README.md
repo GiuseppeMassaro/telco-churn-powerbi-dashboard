@@ -202,14 +202,7 @@ Data Analytics • Business Intelligence • Dashboarding
 
 <br><br>
 
-💡 Transforming raw data into actionable insights  
-🎯 Focus on churn reduction & customer retention  
-
-<br><br>
-
-<a href="https://raw.githubusercontent.com/GiuseppeMassaro/telco-churn-powerbi-dashboard/main/report/Dashboard_Telco.pbix">
-  <img src="https://img.shields.io/badge/📥%20Power%20BI-Download%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</a>
+⚠️ <b>Power BI PBIX files are not reliably previewed on GitHub.</b>
 
 <br><br>
 
@@ -235,7 +228,6 @@ Data Analytics • Business Intelligence • Dashboarding
 🔥 <b>Goal:</b> Deliver insights that drive real business decisions  
 
 </p>
----
 ## 👨‍💻 About Me
 
 <p align="center">
