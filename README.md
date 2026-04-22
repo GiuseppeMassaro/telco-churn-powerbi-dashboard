@@ -158,26 +158,32 @@ telco-churn-powerbi-dashboard/
 │
 └── README.md
 ```
-## 🤝 Connect with Me
+---
 
-Se ti è piaciuto il progetto o vuoi collaborare 👇
+## 🤝 Connect with Me
 
 <div align="center">
 
+### 🚀 Let's Connect & Build Something Together
+
+✨ *Open to opportunities in Data Analytics & Business Intelligence*
+
+<br>
+
 <a href="https://www.linkedin.com/in/giuseppe-massaro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Giuseppe%20Massaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗%20LinkedIn-Giuseppe%20Massaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://giuseppe-massaro-portafoglio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="mailto:massaro.98@hotmail.it">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📩%20Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -186,14 +192,34 @@ Se ti è piaciuto il progetto o vuoi collaborare 👇
 
 ## ⭐ Support
 
-Se questo progetto ti è stato utile:
+<div align="center">
 
-👉 lascia una ⭐ al repository  
-👉 condividilo su LinkedIn  
+### 💡 If you found this project useful
+
+⭐ **Leave a star on the repository**  
+🔁 **Share it with your network**  
+💬 **Let's discuss it on LinkedIn**
+
+</div>
 
 ---
 
 ## 👨‍💻 Author
 
-**Giuseppe Massaro**  
-Aspiring Data Analyst 🚀
+<div align="center">
+
+<img src="https://img.shields.io/badge/Giuseppe%20Massaro-Data%20Analyst-blue?style=for-the-badge"/>
+
+<br><br>
+
+📊 **Aspiring Data Analyst**  
+🚀 Passionate about data, insights, and decision-making  
+
+💼 Focused on:
+- Data Analysis  
+- Business Intelligence  
+- Dashboarding  
+
+</div>
+
+---
