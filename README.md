@@ -202,32 +202,21 @@ Building insights from real-world datasets
 
 <br><br>
 
-<a href="report/Dashboard Telco.pbix">
+<a href="./report/Dashboard%20Telco.pbix">
   <img src="https://img.shields.io/badge/📊%20Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
-<a href="sql/churn_analysis.sql">
+<a href="./sql/sql.sql">
   <img src="https://img.shields.io/badge/🧠%20SQL-Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
-<a href="etl/pulizia etl.ipynb">
+<a href="./etl/pulizia%20etl.ipynb">
   <img src="https://img.shields.io/badge/🐍%20Python-ETL%20Pipeline-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
 <br><br>
 
 🎯 <b>Goal:</b> Deliver actionable business insights  
-
-</p>
-## ⭐ Support
-
-<p align="center">
-
-💛 If you found this project valuable:
-
-⭐ Star the repository  
-🔁 Share it on LinkedIn  
-💬 Let’s connect and talk data  
 
 </p>
 
