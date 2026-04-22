@@ -159,22 +159,49 @@ telco-churn-powerbi-dashboard/
 └── README.md
 ```
 ---
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
-<b>🚀 Open to Data Analyst Opportunities</b><br>
-💡 Data Analytics • Business Intelligence • Dashboarding
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=Open+to+Data+Analyst+Opportunities;Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python" />
+
 </p>
 
 <p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giuseppe%20Massaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-massaro/)
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://giuseppe-massaro-portafoglio.netlify.app/)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massaro.98@hotmail.it)
+💡 <b>Data Analytics • Business Intelligence • Dashboarding</b>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/giuseppe-massaro/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Giuseppe%20Massaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://giuseppe-massaro-portafoglio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:massaro.98@hotmail.it">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Quick Profile
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Specialty-Power%20BI%20Dashboards-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Skills-SQL%20%7C%20Python%20%7C%20DAX-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal-Business%20Impact-9333EA?style=flat-square"/>
 
 </p>
 
@@ -184,22 +211,27 @@ telco-churn-powerbi-dashboard/
 
 <p align="center">
 
-If you found this project useful:
+💛 If you found this project valuable:
 
 ⭐ Star the repository  
 🔁 Share it on LinkedIn  
-💬 Let’s discuss it  
+💬 Let’s connect and talk data  
 
 </p>
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About Me
 
 <p align="center">
 
 <b>Giuseppe Massaro</b><br>
 📊 Aspiring Data Analyst  
+
+<br>
+
+🚀 Passionate about transforming raw data into actionable insights  
+📈 Focused on real-world business problems and data-driven decisions  
 
 </p>
 
