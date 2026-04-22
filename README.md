@@ -157,7 +157,7 @@ telco-churn-powerbi-dashboard/
 │   └── churn_analysis.sql
 │
 └── README.md
-
+---
 ## 🤝 Connect with Me
 
 Se ti è piaciuto il progetto o vuoi collaborare 👇
