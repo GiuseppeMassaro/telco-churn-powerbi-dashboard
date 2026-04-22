@@ -198,10 +198,18 @@ telco-churn-powerbi-dashboard/
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Specialty-Power%20BI%20Dashboards-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Skills-SQL%20%7C%20Python%20%7C%20DAX-3B82F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Goal-Business%20Impact-9333EA?style=flat-square"/>
+<b>🚀 Data Analytics Focus</b>  
+Building insights from real-world datasets  
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=flat-square&logo=powerbi"/>
+<img src="https://img.shields.io/badge/SQL-Analysis-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=flat-square&logo=python"/>
+
+<br><br>
+
+🎯 <b>Goal:</b> Deliver actionable business insights  
 
 </p>
 
