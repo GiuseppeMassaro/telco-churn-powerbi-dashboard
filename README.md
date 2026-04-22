@@ -219,8 +219,6 @@ Building insights from real-world datasets
 🎯 <b>Goal:</b> Deliver actionable business insights  
 
 </p>
----
-
 ## ⭐ Support
 
 <p align="center">
