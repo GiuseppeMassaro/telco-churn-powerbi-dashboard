@@ -193,7 +193,6 @@ telco-churn-powerbi-dashboard/
 </p>
 
 ---
-
 ## 📊 Quick Profile
 
 <p align="center">
@@ -201,18 +200,25 @@ telco-churn-powerbi-dashboard/
 <b>🚀 Data Analytics Focus</b>  
 Building insights from real-world datasets  
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=flat-square&logo=powerbi"/>
-<img src="https://img.shields.io/badge/SQL-Analysis-4479A1?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=flat-square&logo=python"/>
+<a href="report/Dashboard Telco.pbix">
+  <img src="https://img.shields.io/badge/📊%20Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+<a href="sql/churn_analysis.sql">
+  <img src="https://img.shields.io/badge/🧠%20SQL-Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<a href="etl/pulizia etl.ipynb">
+  <img src="https://img.shields.io/badge/🐍%20Python-ETL%20Pipeline-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
 
 <br><br>
 
 🎯 <b>Goal:</b> Deliver actionable business insights  
 
 </p>
-
 ---
 
 ## ⭐ Support
