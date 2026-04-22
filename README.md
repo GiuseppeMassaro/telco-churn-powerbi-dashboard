@@ -197,27 +197,29 @@ telco-churn-powerbi-dashboard/
 
 <p align="center">
 
-<b>🚀 Telco Customer Churn Analysis</b><br>
+🚀 <b>Telco Customer Churn Analysis</b><br>
 Data Analytics • Business Intelligence • Dashboarding  
 
-<br><br>
+<br>
 
 💡 Transforming raw data into actionable insights  
 🎯 Focus on churn reduction & customer retention  
 
-<br><br>
+<br>
 
 ⚠️ <b>Power BI PBIX files are not reliably previewed on GitHub</b>
 
 <br><br>
 
-<!-- BOTTONI PRINCIPALI -->
+<!-- DOWNLOAD DASHBOARD -->
 
-<a href="https://raw.githubusercontent.com/GiuseppeMassaro/telco-churn-powerbi-dashboard/main/report/Dashboard_Telco.pbix">
+<a href="https://github.com/GiuseppeMassaro/telco-churn-powerbi-dashboard/raw/main/report/Dashboard_Telco.pbix">
   <img src="https://img.shields.io/badge/📥%20Download-Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
 
 <br><br>
+
+<!-- NAV BUTTONS -->
 
 <a href="./sql/sql.sql">
   <img src="https://img.shields.io/badge/🧠%20SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
