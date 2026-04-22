@@ -197,12 +197,25 @@ telco-churn-powerbi-dashboard/
 
 <p align="center">
 
-<b>🚀 Telco Customer Churn Analysis</b>  
+<b>🚀 Telco Customer Churn Analysis</b><br>
 Data Analytics • Business Intelligence • Dashboarding  
 
 <br><br>
 
-⚠️ <b>Power BI PBIX files are not reliably previewed on GitHub.</b>
+💡 Transforming raw data into actionable insights  
+🎯 Focus on churn reduction & customer retention  
+
+<br><br>
+
+⚠️ <b>Power BI PBIX files are not reliably previewed on GitHub</b>
+
+<br><br>
+
+<!-- BOTTONI PRINCIPALI -->
+
+<a href="https://raw.githubusercontent.com/GiuseppeMassaro/telco-churn-powerbi-dashboard/main/report/Dashboard_Telco.pbix">
+  <img src="https://img.shields.io/badge/📥%20Download-Power%20BI%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
 
 <br><br>
 
@@ -216,18 +229,22 @@ Data Analytics • Business Intelligence • Dashboarding
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/DAX-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business%20Impact-8E24AA?style=flat-square"/>
+<!-- SKILLS -->
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Impact-8E24AA?style=for-the-badge"/>
 
 <br><br>
 
 🔥 <b>Goal:</b> Deliver insights that drive real business decisions  
 
 </p>
+
+---
 ## 👨‍💻 About Me
 
 <p align="center">
